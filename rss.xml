@@ -4,15 +4,8 @@
         <description><![CDATA[KunnertandTierney]]></description>
         <link>https://thegrid.ai/kunnertandtierney/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 11:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 11:26:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kunnertandtierney/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer gravida lobortis rutrum. ]]></title>
-            <description><![CDATA[<article><h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer gravida lobortis rutrum. </h1><p>Integer lobortis mauris nec elit condimentum malesuada. Morbi sit amet felis vitae tellus euismod pulvinar venenatis eget nibh. Sed nec leo in dui condimentum fringilla. Mauris at iaculis risus. Vivamus luctus mauris fermentum enim commodo, sed semper arcu porttitor. Aliquam aliquet magna sit amet nulla accumsan pretium malesuada ac nisi. Etiam tristique lectus non arcu congue, sit amet hendrerit sem aliquet.</p></article>]]></description>
-            <link>https://thegrid.ai/kunnertandtierney/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-int/index.html</link>
-            <guid isPermaLink="false">c32987d9-4f5e-4d65-81fb-e900d30a64db</guid>
-            <pubDate>Fri, 18 Dec 2015 11:20:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
